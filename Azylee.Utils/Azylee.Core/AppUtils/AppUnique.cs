@@ -8,6 +8,7 @@ using System.Threading;
 
 namespace Azylee.Core.AppUtils
 {
+//lll
     public sealed class AppUnique
     {
         private Mutex Mutex { get; set; }
